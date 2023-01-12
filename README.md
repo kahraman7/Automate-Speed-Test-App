@@ -9,6 +9,8 @@ a windows script to do automatic internet speed testing
 2. Run "speedtest.exe" and complete the first test. Close "speedtest.exe" (you only need to do this on the first installation.)
 3. Run the script and write down how many minutes it will take to perform the operation, translating into seconds
 4. Now you have a bot that records speed and ping values
+# Links
+https://install.speedtest.net/app/cli/ookla-speedtest-1.2.0-win64.zip
 
 # Screenshot
 ![image](https://user-images.githubusercontent.com/109820430/212128844-448e0326-68f5-4d9a-b04e-956f4753b77a.png)
