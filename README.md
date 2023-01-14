@@ -19,5 +19,6 @@ Data saved in "results.txt" will look like this
 ![image](https://user-images.githubusercontent.com/109820430/212130399-040a95a7-e876-439d-b5be-a83f398d75f1.png)
 
 # Links
+https://www.virustotal.com/gui/url/1f24211d65808cee1f4db235734fcc0b31b31b31fbdc1258635c09b2c713dc93
 https://www.speedtest.net/apps/cli
 
